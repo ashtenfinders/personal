@@ -1,0 +1,45 @@
+header
+{
+    background-color:red;
+    color: blue;
+    padding: 10px 0;
+    
+
+}
+ul
+{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+li
+{
+    margin: 0 20px;
+}
+li>a
+{
+    text-decoration: none;
+    color: #fff;
+}
+.container > img
+{
+    width: 400px;
+    height: auto;
+}
+
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+img {
+max-width: 100%;
+}
+footer {
+text-align: center;
+padding: 10px;
+background-color: #333;
+color: #fff;
+}
+
+
